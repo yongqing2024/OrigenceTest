@@ -1,0 +1,28 @@
+C:\Origence Test\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Origence Test\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Origence Test\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Origence Test\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Origence Test\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Origence Test\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Origence Test\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Origence Test\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Origence Test\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Origence Test\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Origence Test\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Origence Test\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Origence Test\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Origence Test\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\OrigenceTest\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\OrigenceTest\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\OrigenceTest\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\OrigenceTest\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\OrigenceTest\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\OrigenceTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrigenceTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\OrigenceTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\OrigenceTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\OrigenceTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\OrigenceTest\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\OrigenceTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\OrigenceTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\OrigenceTest\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
